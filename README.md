@@ -16,9 +16,8 @@
 - A Pi Network-compatible wallet
 
 ### Installation
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/EfeNexus/efePiSwap.git
-   cd efePiSwapInstall dependencies:npm installCompile and deploy contracts:ganache-cli  # Run in a separate terminal
-truffle compile
-truffle migrate --network developmentStart the frontend:npm startVisit http://minepi.com/efebliss in your browser.ConfigurationUpdate migrations/1_deploy_contracts.js with the Efe Nexus Pi token address.Adjust truffle-config.js for Pi Network mainnet when available.UsageSwap Tokens: Enter token addresses and amounts in the frontend.Add Liquidity: Deposit Efe Nexus Pi tokens to enable trading.Project StatusCurrent: Basic swapping and liquidity features.Future: AMM support, Pi Network mainnet deployment.ContributingFork the repo, make changes, and submit a pull request.LicenseMIT LicenseContactCreated by username. Use GitHub Issues for questions or feedback.---
+1. download Pi network apps:
+   ```Use Invitation code 
+   efebliss 
+join the Pi--network mining development
+Start mining http://minepi.com/efebliss and install your pi browser. 
