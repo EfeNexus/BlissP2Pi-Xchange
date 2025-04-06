@@ -9,15 +9,8 @@
 
 ## Getting Started
 
-### Prerequisites
-- Node.js and npm
-- Truffle (`npm install -g truffle`)
-- Ganache (`npm install -g ganache-cli`) for local testing
-- A Pi Network-compatible wallet
-
-### Installation
-1. download Pi network apps:
+### download Pi network apps:
+- `http://minepi.com/efebliss`
    ```Use Invitation code 
    efebliss 
-join the Pi--network mining development
-Start mining http://minepi.com/efebliss and install your pi browser. 
+As your invitation code to claim 1π for free and boost your mining ⛏️ 
